@@ -1,0 +1,4 @@
+#for running it using conda, first creat an environment then install dependencies. 
+#install the required dependencies using pip install -r requirements.txt
+#run the spam_base_project.ipynb file in src folder
+#the data for model training and testing is placed in data folder 
